@@ -7,6 +7,8 @@ A bunch of experiments and small artifacts made with ai
 | --- | --- | --- |
 | [The Little Atlas Library](atlas-library/) | A searchable collection of 46 children's atlases in English, French, and Spanish. | [atlas-library.san.cx](https://atlas-library.san.cx/) |
 
+The atlas footer links to its source folder and to [Sandoche's portfolio](https://www.sandoche.com/).
+
 ## Run locally
 
 Open `atlas-library/index.html` in a browser, or serve its folder with
